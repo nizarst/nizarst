@@ -27,7 +27,7 @@ professionnel_experience:
     "Intern - Initiation @Lerma lab UIR"
   ]
   
-currently_learning: ["Docker, Kubernetes"]
+currently_learning: ["Data Analysis, Docker, Kubernetes"]
 assets: ["Volunteering", "Community Building", "Team Work"]
 ```
   
