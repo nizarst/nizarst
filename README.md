@@ -11,19 +11,19 @@ located_in: Calais, France
 learning about: Data, Machine Learning, Deep Learning
 education:
   [
-    "B.E. Software Engineering in EILCO",
+    "B.E. Software Engineering in EILCO"
   ]
 fields_of_interests:
   [
     "Data Science",
     "Data Analysis",
     "Data Engineering",
-    "Computer Vision",
+    "Computer Vision"
   ]
 professionnel_experience:
   [
     "Intern - Data Science/ML @Deepecho-org",
-    "Intern - Initiation @Lerma lab UIR",
+    "Intern - Initiation @Lerma lab UIR"
   ]
   
 currently_learning: ["Docker, Kubernetes"]
