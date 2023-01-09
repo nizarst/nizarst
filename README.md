@@ -18,7 +18,8 @@ fields_of_interests:
     "Data Science",
     "Data Analysis",
     "Data Engineering",
-    "Computer Vision"
+    "Computer Vision",
+    "Web Development"
   ]
 professionnel_experience:
   [
